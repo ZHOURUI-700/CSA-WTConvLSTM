@@ -4,4 +4,5 @@ CSA-WTConvLSTM: A TEC Spatiotemporal Prediction Model Focusing on Both Low-frequ
 
 *********************************************************
 Execute the run.py file to run CSA-WTConvLSTM.
+The data can be found on the Zenodo (10.5281/zenodo.15266051).
 *********************************************************
